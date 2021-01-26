@@ -1,0 +1,11 @@
+name: processmining
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - jupyter
+  - notebook
+  - matplotlib
+  - seaborn
+prefix: /home/rene/miniconda3/envs/processmining
